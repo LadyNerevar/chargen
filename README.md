@@ -6,7 +6,8 @@ All images are property of their original creators, whose names and websites are
 
 Using this repo, you can:
 * view the images as a gallery and take the randomness out of the random generator
-* copy this code and use these images in your own generators
+* download images by using the green CODE button above, then selecting Download zip, to use them offline 
+* copy this code and use these images in your own generators for other media 
 * submit a pull request to contribute to this generator directly. If you do so, you must provide both the code and images together. 
 
 Questions? Reach me at @ladynerevar.bsky.social on Bluesky 
