@@ -1170,7 +1170,23 @@ poses
     image = http://www.daryam.com/charart/pose/pose290.jpg
     link = https://www.alamy.com/woman-with-curly-afro-hair-in-a-blue-t-shirt-on-yellow-background-signs-with-her-hands-look-into-the-camera-smile-with-teeth-and-happiness-copy-image504320909.html
     source = Dmitry Ageev
-
+  pose291
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose291.jpg
+    link = https://www.istockphoto.com/photo/pretty-smiling-girl-with-jewelry-box-gm478207283-35905534
+    source = feelphotoart
+  pose292
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose292.jpg
+    link = https://www.istockphoto.com/photo/woman-customer-opening-cardboard-box-parcel-gm1331289628-414471346
+    source = urbazon
+  pose293
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose293.jpg
+    link = https://www.istockphoto.com/photo/african-woman-sitting-on-sofa-in-living-room-hold-on-lap-big-carton-box-unpacking-gm1464163823-496930174
+    source = Fabio Camandona
+  pose294
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose294.jpg
+    link = https://www.istockphoto.com/photo/happy-brazilian-man-in-casual-pointing-at-modern-smartphone-with-blank-screen-gm1780537123-546795572
+    source = Prostock-Studio
+	
 who     
   Sprigan
     name = A Spriggan
