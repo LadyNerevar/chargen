@@ -2493,7 +2493,12 @@ who
     image = http://www.daryam.com/charart/char/falmer.jpg
     source = UESP
     link = https://en.uesp.net/wiki/File:SR-creature-Falmer.jpg
-
+  Leramil
+    name = Leramil the Wise
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Leramil.jpg
+    source = UESP
+    link = https://en.uesp.net/wiki/File:ON-npc-Leramil_the_Wise.jpg
+	
 buttonText
   GIVE ME A NEW ONE
   
