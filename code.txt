@@ -1226,9 +1226,71 @@ poses
     image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose304.jpg
     link = https://trueref.io/products/starter-pose-pack-male
     source = TrueRef
-
-
-    
+  pose305
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose305.webp
+    link = https://www.artstation.com/marketplace/p/pYaKX/900-romantic-female-poses-and-portraits
+    source = Grafit Studio
+  pose306
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose306.webp
+    link = https://www.artstation.com/marketplace/p/pYaKX/900-romantic-female-poses-and-portraits
+    source = Grafit Studio
+  pose307
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose307.webp
+    link = https://www.artstation.com/marketplace/p/pYaKX/900-romantic-female-poses-and-portraits
+    source = Grafit Studio	
+  pose308
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose308.webp
+    link = https://www.artstation.com/marketplace/p/pYaKX/900-romantic-female-poses-and-portraits
+    source = Grafit Studio
+  pose309
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose309.webp
+    link = https://www.artstation.com/marketplace/p/1B1jd/450-graceful-female-scythe-poses
+    source = Grafit Studio	
+  pose310
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose310.webp
+    link = https://www.artstation.com/marketplace/p/1B1jd/450-graceful-female-scythe-poses
+    source = Grafit Studio	
+  pose311
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose311.webp
+    link = https://www.artstation.com/marketplace/p/K32dz/1100-female-figure-art-poses-part-2
+    source = Grafit Studio		
+  pose312
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose312.webp
+    link = https://www.artstation.com/marketplace/p/K32dz/1100-female-figure-art-poses-part-2
+    source = Grafit Studio	
+  pose313
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose313.webp
+    link = https://www.artstation.com/marketplace/p/GOXzA/1300-psycho-killer-female-character
+    source = Grafit Studio	
+  pose314
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose314.webp
+    link = https://www.artstation.com/marketplace/p/ylOl2/660-female-concept-art-poses
+    source = Grafit Studio	
+  pose315
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose315.webp
+    link = https://www.artstation.com/marketplace/p/ylOl2/660-female-concept-art-poses
+    source = Grafit Studio	
+  pose316
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose316.webp
+    link = https://www.artstation.com/marketplace/p/ylOl2/660-female-concept-art-poses
+    source = Grafit Studio	
+  pose317
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose317.webp
+    link = https://www.artstation.com/marketplace/p/ylOl2/660-female-concept-art-poses
+    source = Grafit Studio	
+  pose318
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose318.webp
+    link = https://www.artstation.com/marketplace/p/ylOl2/660-female-concept-art-poses
+    source = Grafit Studio	
+  pose319
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose319.webp
+    link = https://www.artstation.com/marketplace/p/rd95J/1450-sporty-ken-male-poses
+    source = Grafit Studio		
+  pose320
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose320.webp
+    link = https://www.artstation.com/marketplace/p/POyMD/1300-playful-everyday-sketching-poses
+    source = Grafit Studio		
+	
 who     
   Sprigan
     name = A Spriggan
@@ -1282,7 +1344,7 @@ who
     link = https://www.imperial-library.info/content/antiquities-codexes#furn
   ESOVivec
     name = 2nd Era Vivec
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vivec2.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Vivec2.jpg
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Vivec
   MWVivec
@@ -1292,12 +1354,12 @@ who
     link = https://en.uesp.net/wiki/Lore:Vivec
   Mannimarco
     name = Mannimarco
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mannimarco.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Mannimarco.jpg
     source = Elder Scrolls Legends
     link = https://en.uesp.net/wiki/Lore:Mannimarco
   Boethra
     name = Boethra
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/boethra.JPG
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/boethra.jpg
     source = The Imperial Library
     link = https://www.imperial-library.info/content/antiquities-codexes#furn
   Lyris
@@ -1332,7 +1394,7 @@ who
     link = https://en.uesp.net/wiki/Lore:Goblin
   Addhiranirr
     name = Addhiranirr
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/addhiranirr.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Addhiranirr.jpg
     source = Own Work
     link = https://en.uesp.net/wiki/Morrowind:Addhiranirr 
   Ahnassi
@@ -2392,7 +2454,7 @@ who
     link = https://en.uesp.net/wiki/Lore:Flame_Atronach
   Llevule
     name = Canon Llevule
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Llevule.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/llevule.jpg
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Canon_Llevule.jpg
   MiriElendis
@@ -2527,7 +2589,7 @@ who
     link = https://en.uesp.net/wiki/File:ON-concept-Scribes_of_Mora.jpg
   Maormer
     name = A Maromer
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/maormer.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Maormer.jpg
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-concept-Dreadsails_Style.jpg
   Falmer
