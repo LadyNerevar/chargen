@@ -1290,6 +1290,47 @@ poses
     image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose320.webp
     link = https://www.artstation.com/marketplace/p/POyMD/1300-playful-everyday-sketching-poses
     source = Grafit Studio		
+  pose321
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose321.webp
+    link = https://www.artstation.com/marketplace/p/oBrwl/1600-medieval-fighter-reference-pictures
+    source = Grafit Studio
+  pose322
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose322.webp
+    link = https://www.artstation.com/marketplace/p/1B7gJ/630-summer-relax-male-poses
+    source = Grafit Studio
+  pose323
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose323.webp
+    link = https://www.artstation.com/marketplace/p/ekkJd/900-athletic-girl-with-weapons
+    source = Grafit Studio	
+  pose324
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose324.webp
+    link = https://www.artstation.com/marketplace/p/ekkJd/900-athletic-girl-with-weapons
+    source = Grafit Studio		
+  pose325
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose325.webp
+    link = https://www.artstation.com/marketplace/p/oBgj2/680-cartoon-casual-poses
+    source = Grafit Studio		
+  pose326
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose326.webp
+    link = https://www.artstation.com/marketplace/p/oBgj2/680-cartoon-casual-poses
+    source = Grafit Studio		
+  pose327
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose327.webp
+    link = https://www.artstation.com/marketplace/p/K5go7/250-female-pose-reference-pictures
+    source = Grafit Studio		
+  pose328
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose328.webp
+    link = https://www.artstation.com/marketplace/p/K5go7/250-female-pose-reference-pictures
+    source = Grafit Studio	
+  pose329
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose329.webp
+    link = https://www.artstation.com/marketplace/p/K5go7/250-female-pose-reference-pictures
+    source = Grafit Studio	
+  pose330
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose330.webp
+    link = https://www.artstation.com/marketplace/p/K5go7/250-female-pose-reference-pictures
+    source = Grafit Studio	
+
 	
 who     
   Sprigan
@@ -1404,7 +1445,7 @@ who
     link = https://en.uesp.net/wiki/Morrowind:Ahnassi
   Barenziah
     name = Barenziah
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/barenziah.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Barenziah.jpg
     source = Own Work
     link = https://en.uesp.net/wiki/Lore:Barenziah
   CaiusCosades
@@ -1679,7 +1720,7 @@ who
     link = https://en.uesp.net/wiki/Skyrim:Colette_Marence
   Vex
     name = Vex
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vex.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Vex.jpg
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Vex    
   Stibbons
