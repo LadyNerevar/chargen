@@ -7,1223 +7,1223 @@ output
 
 poses
   pose1
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose1.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose1.webp
     source = Senshi Stock
     link = http://fav.me/dapazfs
   pose2
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose2.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose2.webp
     link = http://fav.me/d4e1xeu
     source = Senshi Stock
   pose3
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose3.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose3.webp
     link = http://fav.me/ddn45zg
     source = Senshi Stock
   pose4
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose4.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose4.webp
     link = http://fav.me/dco2y1z
     source = Senshi Stock
   pose5
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose5.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose5.webp
     link = https://www.shutterstock.com/image-photo/middle-age-woman-grey-hair-using-1855963249
     source = KrakenImages 
   pose6
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose6.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose6.webp
     link = http://fav.me/d752qkj
     source = Senshi Stock
   pose7
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose7.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose7.webp
     link = https://en.wikipedia.org/wiki/The_Birth_of_Venus
     source = Wikipedia
   pose8
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose8.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose8.webp
     link = https://en.wikipedia.org/wiki/Lady_with_an_Ermine
     source = Wikipedia
   pose9
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose9.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose9.webp
     link = https://en.wikipedia.org/wiki/The_Swing_(Fragonard)
     source = Wikipedia
   pose10
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose10.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose10.webp
     link = http://fav.me/ddz5n0x
     source = JookpubStock
   pose11
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose11.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose11.webp
     link = http://fav.me/ddyi23g
     source = JookpubStock
   pose12
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose12.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose12.webp
     link = http://fav.me/ddyi23g
     source = JookpubStock
   pose13
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose13.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose13.webp
     link = http://fav.me/ddv1vl8
     source = JookpubStock
   pose14
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose14.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose14.webp
     link = http://fav.me/ddoe5f7
     source = JookpubStock    
   pose15
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose15.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose15.webp
     link = http://fav.me/ddewwvn
     source = JookpubStock    
   pose16
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose16.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose16.webp
     link = http://fav.me/ddoe5f7
     source = JookpubStock     
   pose17
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose17.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose17.webp
     link = http://fav.me/ddewwvn
     source = JookpubStock      
   pose18
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose18.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose18.webp
     link = http://fav.me/ddt9u0p
     source = JookpubStock   
   pose19
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose19.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose19.webp
     link = http://fav.me/ddt9u0p
     source = JookpubStock   
   pose20
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose20.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose20.webp
     link = http://fav.me/de1lr5u
     source = JookpubStock   
   pose21
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose21.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose21.webp
     link = http://fav.me/de1lr5u
     source = JookpubStock 
   pose22
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose22.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose22.webp
     link = http://fav.me/de1lr5u
     source = JookpubStock 
   pose23
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose23.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose23.webp
     link = http://fav.me/de1lr5u
     source = JookpubStock 
   pose24
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose24.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose24.webp
     link = http://fav.me/de1lr5u
     source = JookpubStock 
   pose25
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose25.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose25.webp
     link = http://fav.me/de1lr5u
     source = JookpubStock 
   pose26
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose26.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose26.webp
     link = http://fav.me/de1lr5u
     source = JookpubStock 
   pose27
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose27.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose27.webp
     link = http://fav.me/de1lr5u
     source = JookpubStock 
   pose28
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose28.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose28.webp
     link = http://fav.me/de1lr5u
     source = JookpubStock 
   pose29
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose29.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose29.webp
     link = http://fav.me/de1lx0m
     source = JookpubStock 
   pose30
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose30.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose30.webp
     link = http://fav.me/de1a5v1
     source = JookpubStock 
   pose31
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose31.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose31.webp
     link = https://www.shutterstock.com/image-photo/sexual-young-woman-posing-black-dress-250644616
     source = Julenochek
   pose32
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose32.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose32.webp
     link = https://www.shutterstock.com/image-photo/handsome-black-man-drinking-coffee-tea-85273450
     source = G Allen Penton
   pose33
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose33.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose33.webp
     link = https://www.shutterstock.com/image-photo/white-cozy-bed-beautiful-girl-reading-587404685
     source = PV productions
   pose34
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose34.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose34.webp
     link = https://www.shutterstock.com/image-photo/portrait-happy-afro-american-woman-using-325200068
     source = Dean Drobot
   pose35
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose35.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose35.webp
     link = https://www.shutterstock.com/image-photo/excited-beautiful-couple-wearing-white-tshirts-1384580015
     source = Dean Drobot
   pose36
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose36.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose36.webp
     link = https://www.shutterstock.com/image-photo/excited-beautiful-couple-wearing-white-tshirts-1384580015
     source = Dean Drobot
   pose37
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose37.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose37.webp
     link = http://fav.me/d3hzgtr
     source = Senshi Stock
   pose38
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose38.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose38.webp
     link = http://fav.me/de1lr5u
     source = JookpubStock 
   pose39
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose39.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose39.webp
     link = https://www.shutterstock.com/image-photo/beautiful-woman-standing-over-blank-billboard-173888804
     source = IKO-studio
   pose40
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose40.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose40.webp
     link = https://www.shutterstock.com/image-photo/portrait-smiling-asian-businesswoman-standing-arms-1071491576
     source = Dean Drobot
   pose41
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose41.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose41.webp
     link = https://www.shutterstock.com/image-photo/young-woman-over-isolated-background-arms-1613390815
     source = Luis Molinero
   pose42
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose42.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose42.webp
     link = https://www.shutterstock.com/image-photo/young-woman-over-isolated-background-scheming-1613390821
     source = Luis Molinero
   pose43
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose43.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose43.webp
     link = https://www.shutterstock.com/image-photo/young-woman-over-isolated-background-unhappy-1532105015
     source = Luis Molinero
   pose44
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose44.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose44.webp
     link = https://www.shutterstock.com/image-photo/young-woman-over-isolated-blue-background-1613390773
     source = Luis Molinero
   pose45
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose45.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose45.webp
     link = https://www.shutterstock.com/image-photo/full-length-shot-two-young-women-1516378316
     source = Ljupco Smokovski
   pose46
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose46.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose46.webp
     link = https://www.shutterstock.com/image-photo/full-length-shot-two-young-women-1516378316
     source = Ljupco Smokovski
   pose47
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose47.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose47.webp
     link = https://www.shutterstock.com/image-photo/bodybuilder-man-posing-sword-isolated-on-321155687
     source = Lipik Stock Media
   pose48
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose48.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose48.webp
     link = https://www.shutterstock.com/image-photo/crop-young-fit-strong-warrior-cold-1614139705
     source = Serhii Bobyk
   pose49
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose49.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose49.webp
     link = http://fav.me/dbc1enk
     source = epiphany-poses
   pose50
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose50.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose50.webp
     link = http://fav.me/db9si84
     source = epiphany-poses
   pose51
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose51.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose51.webp
     link = https://www.shutterstock.com/image-photo/boxer-resting-after-training-ring-1130549786
     source = nazarovsergey
   pose52
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose52.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose52.webp
     link = https://www.shutterstock.com/image-photo/close-female-boxer-standing-inside-boxing-774948769
     source = Jacob Lund
   pose53
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose53.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose53.webp
     link = https://www.shutterstock.com/image-photo/confident-young-female-boxer-wearing-strap-1145564363
     source = Jacob Lund
   pose54
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose54.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose54.webp
     link = https://www.shutterstock.com/image-photo/athletic-woman-sportswear-standing-on-roof-1118717264
     source = LightField Studios
   pose55
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose55.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose55.webp
     link = https://www.shutterstock.com/image-photo/beautiful-redhaired-sportswoman-meditating-gym-212056990
     source = Guryanov Andrey
   pose56
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose56.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose56.webp
     link = https://www.shutterstock.com/image-photo/photo-closeup-joyful-young-man-tshirt-1447075343
     source = Dean Drobot
   pose57
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose57.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose57.webp
     link = https://www.shutterstock.com/image-photo/young-woman-gesticulating-580833874
     source = Ruslan Huzau
   pose58
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose58.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose58.webp
     link = https://www.shutterstock.com/image-photo/portrait-beautiful-woman-isolated-on-white-1537755293
     source = Ruslan Huzau
   pose59
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose59.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose59.webp
     link = https://www.shutterstock.com/image-photo/thoughtful-tired-strong-male-has-rest-1164358750
     source = StoryTime Studio
   pose60
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose60.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose60.webp
     link = https://www.shutterstock.com/image-photo/posing-african-american-black-girl-adult-493429105
     source = Kosim Shukurov
   pose61
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose61.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose61.webp
     link = http://fav.me/db9si84
     source = epiphany-poses
   pose62
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose62.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose62.webp
     link = http://fav.me/dbc1eu3
     source = epiphany-poses
   pose63
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose63.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose63.webp
     link = http://fav.me/dbc1eu3
     source = epiphany-poses
   pose64
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose64.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose64.webp
     link = http://fav.me/d6you00
     source = SenshiStock
   pose65
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose65.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose65.webp
     link = http://fav.me/d1rlez0
     source = SenshiStock
   pose65
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose65.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose65.webp
     link = http://fav.me/d1rlez0
     source = SenshiStock
   pose66
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose66.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose66.webp
     link = http://fav.me/d1rlez0
     source = SenshiStock
   pose67
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose67.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose67.webp
     link = http://fav.me/d1ub3yy
     source = SenshiStock
   pose68
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose68.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose68.webp
     link = http://fav.me/ddn45uq
     source = SenshiStock
   pose69
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose69.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose69.webp
     link = https://www.shutterstock.com/image-photo/hearing-impaired-people-showing-word-promise-1338709082
     source = New Africa
   pose70
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose70.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose70.webp
     link = https://www.shutterstock.com/image-photo/playful-student-holding-pile-heavy-books-1146949166
     source = gpointstudio
   pose71
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose71.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose71.webp
     link = https://www.shutterstock.com/image-photo/young-beautiful-brunette-woman-serious-red-1104455543
     source = Julio Ricco
   pose72
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose72.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose72.webp
     link = https://www.shutterstock.com/image-photo/cute-girl-glasses-gray-tshirt-takes-1403398328
     source = Ivan Emashev
   pose73
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose73.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose73.webp
     link = https://www.shutterstock.com/image-photo/portrait-young-woman-glasses-on-pink-1721118043
     source = PV productions
   pose74
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose74.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose74.webp
     link = https://www.shutterstock.com/image-photo/portrait-young-woman-showing-emotions-on-1694488582
     source = PV productions
   pose75
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose75.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose75.webp
     link = https://www.shutterstock.com/image-photo/tired-sport-fitness-man-exhausted-breathing-696586843
     source = Maridav
   pose76
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose76.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose76.webp
     link = https://www.shutterstock.com/image-photo/young-african-american-man-wearing-casual-1442134061
     source = Krakenimages.com
   pose77
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose77.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose77.webp
     link = https://www.shutterstock.com/image-photo/young-african-american-man-wearing-casual-1505571554
     source = Krakenimages.com
   pose78
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose78.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose78.webp
     link = https://www.shutterstock.com/image-photo/african-american-man-wearing-denim-shirt-1460185358
     source = Krakenimages.com
   pose79
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose79.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose79.webp
     link = https://www.shutterstock.com/image-photo/young-handsome-trendy-asian-man-eating-1103889497
     source = paulaphoto
   pose80
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose80.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose80.webp
     link = http://fav.me/ddsdq6v
     source = JookpubStock
   pose81
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose81.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose81.webp
     link = http://fav.me/ddsdq6v
     source = JookpubStock
   pose82
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose82.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose82.webp
     link = http://fav.me/ddsdq6v
     source = JookpubStock
   pose83
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose83.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose83.webp
     link = http://fav.me/ddsdq6v
     source = JookpubStock
   pose84
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose84.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose84.webp
     link = http://fav.me/ddsdq6v
     source = JookpubStock
   pose85
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose85.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose85.webp
     link = http://fav.me/ddqzeu3
     source = JookpubStock
   pose86
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose86.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose86.webp
     link = hhttp://fav.me/ddqzeu3
     source = JookpubStock
   pose87
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose87.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose87.webp
     link = https://www.pbs.org/newshour/world/these-soviet-propaganda-posters-meant-to-evoke-heroism-pride
     source = PBS NewsHour
   pose88
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose88.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose88.webp
     link = https://www.pbs.org/newshour/world/these-soviet-propaganda-posters-meant-to-evoke-heroism-pride
     source = PBS NewsHour
   pose89
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose89.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose89.webp
     link = https://www.history.com/news/world-war-ii-propaganda-posters-photos-united-states-home-front
     source = History.com
   pose90
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose90.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose90.webp
     link = https://www.history.com/news/world-war-ii-propaganda-posters-photos-united-states-home-front
     source = History.com
   pose91
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose91.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose91.webp
     link = https://www.etsy.com/listing/509980107/soviet-propaganda-print-nyet-1951
     source = Etsy
   pose92
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose92.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose92.webp
     link = http://fav.me/de2ttpe
     source = SenshiStock
   pose93
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose93.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose93.webp
     link = http://fav.me/de2ttpe
     source = SenshiStock
   pose94
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose94.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose94.webp
     link = http://fav.me/de2ttpe
     source = SenshiStock
   pose95
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose95.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose95.webp
     link = http://fav.me/de2ttpe
     source = SenshiStock
   pose96
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose96.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose96.webp
     link = http://fav.me/de2ttpe
     source = SenshiStock
   pose97
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose97.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose97.webp
     link = http://fav.me/de2ttpe
     source = SenshiStock
   pose98
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose98.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose98.webp
     link = http://fav.me/de2ttpe
     source = SenshiStock
   pose99
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose99.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose99.webp
     link = https://www.shutterstock.com/image-photo/young-handsome-man-shirtless-wearing-swimsuit-1781242592
     source = Krakenimages.com
   pose100
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose100.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose100.webp
     link = https://www.shutterstock.com/image-photo/young-handsome-man-shirtless-wearing-swimsuit-1703924794
     source = Krakenimages.com
   pose101
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose101.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose101.webp
     link = https://www.shutterstock.com/image-photo/sexy-bodybuilder-glasses-white-shorts-on-1593822061
     source = ShotPrime Studio
   pose102
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose102.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose102.webp
     link = https://www.shutterstock.com/image-photo/young-handsome-man-shirtless-wearing-swimsuit-1687606432
     source = Krakenimages.com
   pose103
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose103.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose103.webp
     link = https://www.shutterstock.com/image-photo/one-eyed-pirate-isolated-on-white-230957278
     source = Elnur
   pose104
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose104.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose104.webp
     link = https://www.shutterstock.com/image-photo/casual-dressed-young-man-grey-tshirt-1786060820
     source = Slladkaya
   pose105
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose105.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose105.webp
     link = https://www.shutterstock.com/image-photo/beautiful-positive-friendlylooking-young-woman-lovely-1790268722
     source = Slladkaya
   pose106
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose106.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose106.webp
     link = https://www.shutterstock.com/image-photo/studio-closeup-shot-sneaky-sly-scheming-1785367730
     source = Slladkaya
   pose107
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose107.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose107.webp
     link = https://www.shutterstock.com/image-photo/cute-my-male-heart-melting-portrait-1783741190
     source = Slladkaya
   pose108
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose108.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose108.webp
     link = https://www.shutterstock.com/image-photo/portrait-strong-young-african-woman-flexing-1050291998
     source = mimagephotography
   pose109
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose109.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose109.webp
     link = https://www.shutterstock.com/image-photo/portrait-smiling-woman-standing-arms-crossed-1050292019
     source = mimagephotography
   pose110
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose110.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose110.webp
     link = https://www.shutterstock.com/image-photo/young-bearded-crazy-man-feeling-happy-1541353250
     source = Kues
   pose111
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose111.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose111.webp
     link = https://www.shutterstock.com/image-photo/young-crazy-baker-man-holding-bread-1642968229
     source = Kues
   pose112
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose112.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose112.webp
     link = https://www.shutterstock.com/image-photo/chefs-pancakes-130512143
     source = alexkatkov
   pose113
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose113.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose113.webp
     link = https://www.shutterstock.com/image-photo/attractive-male-body-builder-on-white-637906303
     source = Master1305
   pose114
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose114.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose114.webp
     link = https://www.shutterstock.com/image-photo/attractive-male-body-builder-on-white-637906303
     source = Master1305
   pose115
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose115.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose115.webp
     link = https://www.shutterstock.com/image-photo/attractive-male-body-builder-on-white-637906303
     source = Master1305
   pose116
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose116.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose116.webp
     link = http://fav.me/de2t0bq
     source = JookpubStock
   pose117
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose117.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose117.webp
     link = http://fav.me/de2t0bq
     source = JookpubStock 
   pose118
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose119.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose119.webp
     link = http://fav.me/de2t0bq
     source = JookpubStock
   pose119
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose118.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose118.webp
     link = http://fav.me/de2vb3d
     source = JookpubStock
   pose120
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose120.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose120.webp
     link = http://fav.me/de2vb3d
     source = JookpubStock
   pose121
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose121.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose121.webp
     link = https://en.wikipedia.org/wiki/British_propaganda_during_World_War_II
     source = Wikipedia
   pose122
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose122.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose122.webp
     link = https://en.wikipedia.org/wiki/Liberty_Leading_the_People
     source = Wikipedia
   pose123
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose122.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose122.webp
     link = https://www.shutterstock.com/image-photo/asian-man-doctor-holding-looking-examining-1793174794
     source = Travelerpix
   pose124
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose124.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose124.webp
     link = https://www.shutterstock.com/image-photo/statue-man-holding-skull-106648439
     source = Jan Krcmar
   pose125
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose125.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose125.webp
     link = https://www.shutterstock.com/image-photo/full-length-shot-handsome-young-man-1478265095
     source = Ljupco Smokovski
   pose126
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose126.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose126.webp
     link = https://www.shutterstock.com/image-photo/young-man-sitting-on-gray-sofa-1662690490
     source = Ljupco Smokovski
   pose127
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose127.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose127.webp
     link = https://www.shutterstock.com/image-photo/handsome-young-man-sitting-armchair-on-1580622865
     source = New Africa
   pose128
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose128.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose128.webp
     link = https://www.shutterstock.com/image-photo/young-traveler-couple-lost-city-using-744931033
     source = Stefanovic Mina
   pose129
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose129.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose129.webp
     link = https://www.shutterstock.com/image-photo/handsome-young-afro-american-tourist-eyewear-631792025
     source = WAYHOME studio
   pose130
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose130.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose130.webp
     link = https://www.shutterstock.com/image-photo/smiling-lovely-asian-woman-dressed-pin-629042408
     source = Makistock
   pose131
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose131.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose131.webp
     link = https://www.shutterstock.com/image-photo/sweet-moments-domestic-animals-portrait-satisfied-1327538804
     source = WAYHOME studio
   pose132
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose132.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose132.webp
     link = https://www.shutterstock.com/image-photo/teenage-girl-smiles-broadly-sits-upbeat-1721135317
     source = WAYHOME studio
   pose133
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose133.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose133.webp
     link = https://www.shutterstock.com/image-photo/take-chance-muscular-boxer-ready-fight-1304113627
     source  = Friends Stock
   pose134
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose134.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose134.webp
     link = https://www.shutterstock.com/image-photo/portrait-young-african-sports-woman-relaxing-397768876
     source = mimagephotography
   pose135
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose135.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose135.webp
     link = https://www.shutterstock.com/image-photo/go-hard-every-play-handsome-muscular-1304114137
     source = Friends Stock
   pose136
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose136.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose136.webp
     link = https://www.shutterstock.com/image-photo/little-rest-before-exercises-open-air-1226990302
     source = Friends Stock
   pose137
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose137.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose137.webp
     link = https://www.shutterstock.com/image-photo/sportsman-woman-boxer-fighting-gloves-on-1441078727
     source = Mike Orlov
   pose138
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose138.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose138.webp
     link = https://www.shutterstock.com/image-photo/beautiful-woman-pigtails-bit-1040550352
     source = ShotPrime Studio
   pose139
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose139.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose139.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-healthy-young-woman-681211150
     source = Jacob Lund   
   pose140
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose140.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose140.webp
     link = https://www.shutterstock.com/image-photo/studio-shot-fit-young-man-medicine-685733689
     source = Jacob Lund      
   pose141
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose141.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose141.webp
     link = https://www.shutterstock.com/image-photo/sportive-woman-standing-hands-on-hips-1716377296
     source = LightField Studios
   pose142
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose142.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose142.webp
     link = https://www.shutterstock.com/image-photo/attractive-multicultural-girls-standing-sport-equipment-1716377239
     source = LightField Studios     
   pose143
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose143.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose143.webp
     link = https://www.shutterstock.com/image-photo/multicultural-girls-posing-sport-equipment-on-1716377206
     source = LightField Studios   
   pose144
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose144.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose144.webp
     link = https://www.shutterstock.com/image-photo/sportive-girl-sitting-on-fitness-mall-1716376975
     source = LightField Studios
   pose145
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose145.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose145.webp
     link = https://www.shutterstock.com/image-photo/sportive-girl-sitting-on-fitness-mall-1716376984
     source = LightField Studios
   pose146
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose146.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose146.webp
     link = https://www.shutterstock.com/image-photo/pretty-girl-blue-jeans-bra-sitting-1344093053
     source = LightField Studios
   pose147
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose147.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose147.webp
     link = https://www.shutterstock.com/image-photo/young-african-american-woman-stylish-clothes-1071611468
     source = LightField Studios
   pose148
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose148.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose148.webp
     link = https://www.shutterstock.com/image-photo/beautiful-african-american-woman-posing-fashion-741411481
     source = LightField Studios
   pose149
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose149.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose149.webp
     link = https://www.shutterstock.com/image-photo/young-bearded-man-grooming-his-hair-730532896
     source = LightField Studios
   pose150
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose150.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose150.webp
     link = https://www.shutterstock.com/image-photo/athletic-young-woman-sitting-on-fitness-1221481399
     source = LightField Studios
   pose151
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose151.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose151.webp
     link = https://www.shutterstock.com/image-photo/activist-revolutionary-young-woman-red-flag-1713851503
     source = Trismegist san
   pose152
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose152.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose152.webp
     link = https://www.shutterstock.com/image-photo/activist-revolutionary-young-woman-red-flag-1726803628
     source = Trismegist san
   pose153
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose153.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose153.webp
     link = https://www.shutterstock.com/image-photo/yes-you-can-strong-independent-woman-1726765975
     source = Trismegist san
   pose154
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose154.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose154.webp
     link = https://www.shutterstock.com/image-photo/activist-revolutionary-young-woman-red-flag-1750607387
     source = Trismegist san
   pose155
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose155.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose155.webp
     link = https://www.shutterstock.com/image-photo/activist-revolutionary-young-woman-red-flag-1755185027
     source = Trismegist san
   pose156
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose156.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose156.webp
     link = https://www.shutterstock.com/image-photo/activist-revolutionary-young-woman-red-flag-1678822375
     source = Trismegist san
   pose157
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose157.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose157.webp
     link = https://www.shutterstock.com/image-photo/gesture-woman-toothy-smile-showing-ok-1033810387
     source = Khosro
   pose158
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose158.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose158.webp
     link = https://www.shutterstock.com/image-photo/well-dressed-young-woman-showing-frame-1033810471
     source = Khosro
   pose159
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose159.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose159.webp
     link = https://www.shutterstock.com/image-photo/portrait-beautiful-cheerful-pin-woman-wearing-1315971791
     source = Dean Drobot
   pose160
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose160.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose160.webp
     link = https://www.shutterstock.com/image-photo/portrait-beautiful-cheerful-pin-woman-wearing-1315971830
     source = Dean Drobot
   pose161
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose161.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose161.webp
     link = https://www.shutterstock.com/image-photo/happy-fashion-asian-woman-drinking-champagne-1012307314
     source = Makistock
   pose162
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose162.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose162.webp
     link = https://www.shutterstock.com/image-photo/philippines-girl-slim-body-isolated-on-1561514473
     source = pujislab
   pose163
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose163.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose163.webp
     link = https://www.shutterstock.com/image-photo/girl-model-black-wear-posed-studio-1092794576
     source = AS photo studio
   pose164
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose164.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose164.webp
     link = https://www.shutterstock.com/image-photo/smiling-lovely-asian-woman-dressed-pin-1009624468
     source = Makistock
   pose165
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose165.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose165.webp
     link = https://www.shutterstock.com/image-photo/portrait-handsome-young-man-standing-cafe-669716536
     source = Jacob Lund
   pose166
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose166.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose166.webp
     link = https://www.shutterstock.com/image-photo/group-young-people-casual-clothes-smiling-1679323777
     source = Studio Romantic
   pose167
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose167.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose167.webp
     link = https://www.shutterstock.com/image-photo/group-young-women-jeans-jumping-near-1152556430
     source = New Africa
   pose168
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose168.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose168.webp
     link = https://www.shutterstock.com/image-photo/group-young-women-jeans-jumping-near-1152556430
     source = New Africa
   pose169
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose169.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose169.webp
     link = https://www.shutterstock.com/image-photo/group-people-yoga-mats-near-color-1573137916
     source = Pixel-Shot
   pose170
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose170.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose170.webp
     link = https://www.shutterstock.com/image-photo/young-boss-wearing-black-suit-white-1794044092
     source = Sergey Dubrov
   pose171
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose171.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose171.webp
     link = https://www.shutterstock.com/image-photo/confident-his-perfect-look-full-length-340162145
     source = G-Stock Studio
   pose172
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose172.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose172.webp
     link = https://www.shutterstock.com/image-photo/cool-elegant-man-sitting-studio-wearing-508411945
     source = Viorel Sima
   pose173
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose173.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose173.webp
     link = https://www.shutterstock.com/image-photo/rock-musician-314563949
     source = Kues
   pose174
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose174.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose174.webp
     link = https://www.shutterstock.com/image-photo/rock-musician-314571749
     source = Kues
   pose175
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose175.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose175.webp
     link = https://www.shutterstock.com/image-photo/beautiful-slender-guy-teen-jeans-1496644352
     source = Alexander Pylishev
   pose176
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose176.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose176.webp
     link = https://www.shutterstock.com/image-photo/east-asian-handsome-businessman-on-white-416909569
     source = Zdenka Darula
   pose177
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose177.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose177.webp
     link = https://www.shutterstock.com/image-photo/young-black-man-wearing-athletic-wear-493941082
     source = Zdenka Darula
   pose178
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose178.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose178.webp
     link = https://www.shutterstock.com/image-photo/beautiful-young-brunette-girl-on-white-1067169338
     source = Viachaslau Govorkov
   pose179
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose179.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose179.webp
     link = https://www.shutterstock.com/image-photo/girl-sitting-on-chair-white-background-1067169383
     source = Viachaslau Govorkov
   pose180
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose180.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose180.webp
     link = https://www.shutterstock.com/image-photo/beautiful-young-brunette-girl-on-white-1067169806
     source = Viachaslau Govorkov
   pose181
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose181.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose181.webp
     link = https://www.shutterstock.com/image-photo/full-body-shot-young-handsome-androgynous-1336078979
     source = Ranta Images
   pose182
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose182.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose182.webp
     link = https://www.shutterstock.com/image-photo/full-body-portrait-happy-smiling-beautiful-1184185633
     source = Diana Grytsku
   pose183
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose183.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose183.webp
     link = https://www.shutterstock.com/image-photo/full-body-shot-happy-young-beautiful-1509299834
     source = Ranta Images
   pose184
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose184.jpg
-    link = https://commons.wikimedia.org/wiki/Category:Works_by_J._C._Leyendecker#/media/File:Leyendecker_Drawing.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose184.webp
+    link = https://commons.wikimedia.org/wiki/Category:Works_by_J._C._Leyendecker#/media/File:Leyendecker_Drawing.webp
     source = J.C. Leyendecker 
   pose185
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose185.jpg
-    link = https://commons.wikimedia.org/wiki/File:Sat_Eve_Post_Cover_1919_07_05_J.C._Leyendecker.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose185.webp
+    link = https://commons.wikimedia.org/wiki/File:Sat_Eve_Post_Cover_1919_07_05_J.C._Leyendecker.webp
     source = J.C. Leyendecker 
   pose186
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose186.jpg
-    link = https://commons.wikimedia.org/wiki/File:SaturdayEveningPost5Apr1924.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose186.webp
+    link = https://commons.wikimedia.org/wiki/File:SaturdayEveningPost5Apr1924.webp
     source = Norman Rockwell
   pose187
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose187.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose187.webp
     link = https://www.shutterstock.com/image-photo/man-husband-cleaning-house-helping-wife-577782211
     source = Elnur
   pose188
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose188.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose188.webp
     link = https://www.shutterstock.com/image-photo/portrait-androgynous-person-sitting-on-stool-643233238
     source = wavebreakmedia
   pose189
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose189.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose189.webp
     link = https://www.shutterstock.com/image-photo/close-androgynous-man-cap-smiling-camera-643238224
     source = wavebreakmedia
   pose190
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose190.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose190.webp
     link = https://www.shutterstock.com/image-photo/young-attractive-red-haired-female-warrior-486463372
     source = faestock
   pose191
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose191.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose191.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-black-haired-girl-1009470187
     source = faestock
   pose192
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose192.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose192.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-black-haired-girl-1009470172
     source = faestock
   pose193
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose193.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose193.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-girl-wearing-simple-1017349864
     source = faestock
   pose194
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose194.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose194.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-girl-wearing-simple-1017350293
     source = faestock
   pose195
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose195.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose195.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-pretty-brunette-girl-1605236782
     source = faestock
   pose196
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose196.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose196.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-brunette-girl-wearing-1245872980
     source = faestock
   pose197
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose197.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose197.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-brunette-girl-wearing-1245872938
     source = faestock
   pose198
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose198.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose198.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-brunette-girl-wearing-1238076493
     source = faestock
   pose199
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose199.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose199.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724200637
     source = faestock
   pose200
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose200.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose200.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724200610
     source = faestock
   pose201
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose201.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose201.webp
     link = https://www.shutterstock.com/image-photo/young-man-black-leather-sword-1317507605
     source = Leo Stock Pix
   pose202
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose202.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose202.webp
     link = https://www.shutterstock.com/image-photo/serious-young-man-sword-1337086892
     source = Leo Stock Pix
   pose203
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose203.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose203.webp
     link = https://www.shutterstock.com/image-photo/man-black-leather-pants-posing-sword-1347449150
     source = Leo Stock Pix
   pose204
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose204.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose204.webp
     link = https://www.shutterstock.com/image-photo/serious-young-man-sword-1337087651
     source = Leo Stock Pix
   pose205
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose205.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose205.webp
     link = https://www.shutterstock.com/image-photo/serious-young-man-sword-1337086838
     source = Leo Stock Pix
   pose206
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose206.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose206.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724200772
     source = faestock
   pose207
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose207.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose207.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724200751
     source = faestock
   pose208
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose208.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose208.webp
     link = https://www.shutterstock.com/image-photo/portrait-pretty-brunette-girl-ponytail-wearing-1688794663
     source = faestock
   pose209
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose209.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose209.webp
     link = https://www.shutterstock.com/image-photo/portrait-pretty-brunette-girl-ponytail-wearing-1688794687
     source = faestock
   pose210
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose210.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose210.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-girl-wearing-white-760857895
     source = faestock
   pose211
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose211.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose211.webp
     link = https://www.shutterstock.com/image-photo/athletic-young-man-portrait-60144100
     source = aaltair
   pose212
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose212.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose212.webp
     link = https://www.shutterstock.com/image-photo/woman-holding-gay-rainbow-flag-over-1436628881
     source = eva_blanco
   pose213
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose213.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose213.webp
     link = https://www.shutterstock.com/image-photo/young-bearded-man-having-exciting-face-1374344786
     source =  Vulp
   pose214
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose214.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose214.webp
     link = https://www.shutterstock.com/image-photo/sexy-young-african-american-woman-drinking-1136197394
     source = Master1305
   pose215
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose215.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose215.webp
     link = https://www.shutterstock.com/image-photo/sexy-young-african-american-woman-drinking-1136197400
     source = Master1305
   pose216
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose216.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose216.webp
     link = https://www.shutterstock.com/image-photo/portrait-beautiful-friendly-african-american-woman-1135394102
     source = Master1305
   pose217
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose217.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose217.webp
     link = https://www.shutterstock.com/image-photo/portrait-beautiful-friendly-african-american-woman-1135394093
     source =  Master1305
   pose218
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose218.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose218.webp
     link = https://www.shutterstock.com/image-photo/kiss-you-portrait-attractive-woman-on-1136101367
     source = Master1305
   pose219
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose219.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose219.webp
     link = https://www.shutterstock.com/image-photo/couple-young-funny-happy-man-woman-1128129434
     source =  Master1305
   pose220
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose220.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose220.webp
     link = https://www.shutterstock.com/image-photo/couple-young-funny-happy-man-woman-1128184862
     source = Master1305
   pose221
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose221.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose221.webp
     link = https://www.shutterstock.com/image-photo/ancient-thai-warrior-688642447
     source = thitikorn-yupa
   pose222
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose222.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose222.webp
     link = https://www.shutterstock.com/image-photo/boxing-asia-596232914
     source = OULAILAX NAKHONE
   pose223
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose223.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose223.webp
     link = https://www.shutterstock.com/image-photo/fighter-tying-tape-around-his-hand-1114358936
     source = Somchai_Stock
   pose224
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose224.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose224.webp
     link = https://www.shutterstock.com/image-photo/young-attractive-red-haired-female-warrior-486463291
     source = faestock
   pose225
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose225.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose225.webp
     link = https://www.shutterstock.com/image-photo/young-attractive-red-haired-female-warrior-485509090
     source = faestock
   pose226
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose226.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose226.webp
     link = https://www.shutterstock.com/image-photo/portrait-young-red-haired-female-warrior-485558734
     source = faestock
   pose227
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose227.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose227.webp
     link = https://www.shutterstock.com/image-photo/portrait-young-red-haired-female-warrior-485530081
     source = faestock
   pose228
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose228.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose228.webp
     link = https://www.shutterstock.com/image-photo/portrait-young-red-haired-female-warrior-485558740
     source = faestock
   pose229
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose229.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose229.webp
     link = https://www.shutterstock.com/image-photo/young-attractive-red-haired-female-warrior-351980939
     source = faestock
   pose230
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose230.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose230.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724184836
     source = faestock
   pose231
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose231.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose231.webp
     link = https://www.shutterstock.com/image-photo/portrait-young-red-haired-female-warrior-485558746
     source = faestock
   pose232
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose232.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose232.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724200520
     source = faestock
   pose233
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose233.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose233.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724190521
     source = faestock
   pose234
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose234.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose234.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724185007
     source = faestock
   pose235
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose235.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose235.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724205875
     source = faestock
   pose236
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose236.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose236.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724205809
     source = faestock
   pose237
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose237.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose237.webp
     link = https://www.shutterstock.com/image-photo/full-length-portrait-fantasy-medieval-warrior-724204552
     source = faestock
   pose238
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose238.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose238.webp
     link = https://en.wikipedia.org/wiki/J._C._Leyendecker
     source = J. C. Leyendecker
   pose239
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose239.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose239.webp
     link = https://en.wikipedia.org/wiki/Leonardo_da_Vinci
     source = Wikipedia
   pose240
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose240.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose240.webp
     link = https://www.shutterstock.com/image-photo/woman-doctor-doing-chemical-tests-isolated-442844539
     source = Elnur
   pose241
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose241.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose241.webp
     link = https://twitter.com/MalkaPoses/status/1404597831973941249
     source = MalkaPoses
   pose242
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose242.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose242.webp
     link = https://twitter.com/MalkaPoses/status/1398874597664116742?s=19
     source = MalkaPoses
   pose243
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose243.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose243.webp
     link = https://twitter.com/theposearchives/status/1429590201991454723
     source = ThePoseArchives
   pose244
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose244.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose244.webp
     link = https://twitter.com/theposearchives/status/1429590201991454723
     source = ThePoseArchives
   pose245
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose245.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose245.webp
     link = https://twitter.com/theposearchives/status/1429590201991454723
     source = ThePoseArchives
   pose246
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose246.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose246.webp
     link = https://twitter.com/theposearchives/status/1428553538511118336
     source = ThePoseArchives
   pose247
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose247.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose247.webp
     link = https://twitter.com/theposearchives/status/1428553538511118336
     source = ThePoseArchives
   pose248
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose248.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose248.webp
     link = https://twitter.com/theposearchives/status/1428553538511118336
     source = ThePoseArchives
   pose249
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose249.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose249.webp
     link = https://twitter.com/theposearchives/status/1427778891762995201
     source = ThePoseArchives
   pose250
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose250.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose250.webp
     link = https://twitter.com/theposearchives/status/1427778891762995201
     source = ThePoseArchives
   pose251
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose251.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose251.webp
     link = https://twitter.com/theposearchives/status/1420280171156758532
     source = ThePoseArchives
   pose252
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose252.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose252.webp
     link = https://twitter.com/theposearchives/status/1420280171156758532
     source = ThePoseArchives
   pose253
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose253.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose253.webp
     link = https://twitter.com/theposearchives/status/1418504133066117121
     source = ThePoseArchives
   pose254
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose254.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose254.webp
     link = https://twitter.com/theposearchives/status/1418504133066117121
     source = ThePoseArchives
   pose255
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose255.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose255.webp
     link = https://twitter.com/theposearchives/status/1412566147401076741
     source = ThePoseArchives
   pose256
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose256.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose256.webp
     link = https://twitter.com/theposearchives/status/1412566147401076741
     source = ThePoseArchives
   pose257
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose257.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose257.webp
     link = https://twitter.com/theposearchives/status/1400688364429348864
     source = ThePoseArchives
   pose258
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose258.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose258.webp
     link = https://twitter.com/theposearchives/status/1400688364429348864
     source = ThePoseArchives
   pose259
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose259.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose259.webp
     link = https://twitter.com/JookpubStock/status/1432417846542405644
     source = JookPubStock 
   pose260
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose260.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose260.webp
     link = https://twitter.com/JookpubStock/status/1415023220994965504
     source = JookPubStock
   pose261
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose261.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose261.webp
     link = https://twitter.com/AdorkaStock/status/1428358725123731464
     source = Adorka Stock
   pose262
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose262.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose262.webp
     link = https://twitter.com/AdorkaStock/status/1424786849533505537
     source = Adorka Stock
   pose263
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose263.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose263.webp
     link = https://twitter.com/AdorkaStock/status/1424786849533505537
     source = Adorka Stock
   pose264
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose264.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose264.webp
     link = https://twitter.com/theposearchives/status/1349169696239542274
     source = The Pose Archives 
   pose265
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose265.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose265.webp
     link = https://twitter.com/theposearchives/status/1349167481651253249
     source = The Pose Archives 
   pose266
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose266.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose266.webp
     link = https://twitter.com/theposearchives/status/1367273166339371008
     source = The Pose Archives 
   pose267
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose267.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose267.webp
     link = https://twitter.com/theposearchives/status/1367273166339371008
     source = The Pose Archives 
   pose268
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose268.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose268.webp
     link = https://twitter.com/theposearchives/status/1367273166339371008
     source = The Pose Archives 
   pose269
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose269.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose269.webp
     link = https://twitter.com/theposearchives/status/1369907080975413248
     source = The Pose Archives
   pose270
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose270.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose270.webp
     link = https://jookpubstock.com/pokemon/
     source = JookPubStock
   pose271
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose271.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose271.webp
     link = https://jookpubstock.com/kingdom-hearts/
     source = JookPubStock
   pose272
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose272.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose272.webp
     link = https://jookpubstock.com/books/
     source = JookPubStock
   pose273
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose273.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose273.webp
     link = https://jookpubstock.com/magic/
     source = JookPubStock
   pose274
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose274.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose274.webp
     link = https://jookpubstock.com/magic/
     source = JookPubStock
   pose275
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose275.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose275.webp
     link = https://jookpubstock.com/furnishings/
     source = JookPubStock
   pose278
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose278.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose278.webp
     link = https://www.shutterstock.com/image-photo/young-handsome-man-holding-red-rose-254687053
     source = B-D-S Piotr Marcinski
   pose276
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose276.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose276.webp
     link = https://twitter.com/theposearchives/status/1375028617902747653
     source = The Pose Archives 
   pose277
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose277.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose277.webp
     link = https://www.shutterstock.com/image-photo/woman-rose-flower-natural-portrait-over-1736246009
     source = Irina Bg
   pose279
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose279.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose279.webp
     link = https://www.shutterstock.com/image-photo/beautiful-brunette-woman-wavy-long-hair-1774720490
     source = Look Studio
   pose280
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose280.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose280.webp
     link = https://www.alamy.com/smiling-manager-with-tablet-pc-sitting-on-boxes-in-warehouse-image473251820.html
     source = Westend61 GmbH
   pose281
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose281.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose281.webp
     link = https://www.alamy.com/young-businessman-holding-document-while-leaning-on-cardboard-boxes-in-new-office-image389310454.html
     source = Maskot
   pose282
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose282.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose282.webp
     link = https://www.alamy.com/stock-photo-businessman-rooting-through-briefcase-54643734.html
     source = Connect Images
   pose283
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose283.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose283.webp
     link = https://www.alamy.com/stock-photo-older-black-woman-sitting-on-skateboard-on-beach-73480897.html
     source = Tetra Images, LLC
   pose284
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose284.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose284.webp
     link = https://www.alamy.com/portrait-of-beautiful-young-woman-posing-opening-present-box-over-red-background-image565933524.html
     source = MAKI STUDIO
   pose285
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose285.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose285.webp
     link = https://www.alamy.com/young-attractive-asian-woman-who-eats-image473277825.html
     source = MAKI STUDIO
   pose286
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose286.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose286.webp
     link = https://www.alamy.com/young-beautiful-happy-asian-business-woman-owner-of-sme-online-using-laptop-receive-order-from-customer-with-parcel-box-packaging-at-her-startup-home-image515540506.html
     source = MAKI STUDIO
   pose287
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose287.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose287.webp
     link = https://www.alamy.com/young-man-hipster-millennial-arms-hand-covering-eyes-from-sun-on-beach-during-sunny-day-with-red-sunglasses-in-miami-florida-with-ocean-in-background-image230769704.html
     source = Kristina Blokhin
   pose288
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose288.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose288.webp
     link = https://www.alamy.com/portrait-of-young-stylish-woman-posing-near-a-night-club-outdoors-image370182509.html
     source = Yaroslav Olieinikov
   pose289
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose289.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose289.webp
     link = https://stock.adobe.com/images/3-4-close-up-portrait-of-red-haired-girl-wearing-striped-shirt-leaning-on-table-pose-with-studio-background/422752679
     source = Faestock
   pose290
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose290.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose290.webp
     link = https://www.alamy.com/woman-with-curly-afro-hair-in-a-blue-t-shirt-on-yellow-background-signs-with-her-hands-look-into-the-camera-smile-with-teeth-and-happiness-copy-image504320909.html
     source = Dmitry Ageev
   pose291
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose291.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose291.webp
     link = https://www.istockphoto.com/photo/pretty-smiling-girl-with-jewelry-box-gm478207283-35905534
     source = feelphotoart
   pose292
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose292.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose292.webp
     link = https://www.istockphoto.com/photo/woman-customer-opening-cardboard-box-parcel-gm1331289628-414471346
     source = urbazon
   pose293
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose293.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose293.webp
     link = https://www.istockphoto.com/photo/african-woman-sitting-on-sofa-in-living-room-hold-on-lap-big-carton-box-unpacking-gm1464163823-496930174
     source = Fabio Camandona
   pose294
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose294.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose294.webp
     link = https://www.istockphoto.com/photo/happy-brazilian-man-in-casual-pointing-at-modern-smartphone-with-blank-screen-gm1780537123-546795572
     source = Prostock-Studio
   pose295
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose295.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose295.webp
     link = https://bsky.app/profile/trueref.bsky.social/post/3lhesvjhlz22s
     source = TrueRef
   pose296
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose296.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose296.webp
     link = https://bsky.app/profile/trueref.bsky.social/post/3lhajiyocps2p
     source = TrueRef
   pose297
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose297.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose297.webp
     link = https://bsky.app/profile/trueref.bsky.social/post/3lhajiyocps2p
     source = TrueRef
   pose298
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose298.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose298.webp
     link = https://bsky.app/profile/trueref.bsky.social/post/3lgjdz5tr5k2l
     source = TrueRef
   pose299
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose299.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose299.webp
     link = https://trueref.io/products/starter-partner-poses-alaina-ivy
     source = TrueRef
   pose300
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose300.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose300.webp
     link = https://trueref.io/products/vivid-lights-demo-marissa-asia
     source = TrueRef
   pose301
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose301.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose301.webp
     link = https://trueref.io/products/vivid-lights-demo-marissa-asia
     source = TrueRef
   pose302
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose302.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose302.webp
     link = https://trueref.io/products/starter-poses-idrissou
     source = TrueRef
   pose303
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose303.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose303.webp
     link = https://trueref.io/products/starter-pose-pack-sapphire
     source = TrueRef
   pose304
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose304.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose304.webp
     link = https://trueref.io/products/starter-pose-pack-male
     source = TrueRef
   pose305
@@ -1330,1319 +1330,1387 @@ poses
     image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose330.webp
     link = https://www.artstation.com/marketplace/p/K5go7/250-female-pose-reference-pictures
     source = Grafit Studio	
+  pose331
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose331.webp
+    link = https://www.istockphoto.com/photo/you-dont-need-much-to-fill-your-heart-with-happiness-gm1185785083-334307371
+    source = kupicoo	
+  pose332
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose332.webp
+    link = https://www.istockphoto.com/photo/selling-jar-gm892941142-247076574
+    source = Thaishutter_2528
+  pose333
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose333.webp
+    link = https://www.istockphoto.com/photo/asian-women-dont-like-eating-green-salads-she-was-bored-and-didnt-like-the-smell-of-gm1497207249-519650407
+    source = Warumpha Pojchananaphasiri
+  pose334
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose334.webp
+    link = https://www.istockphoto.com/photo/asian-woman-are-not-happy-during-diet-anorexia-do-not-like-to-eat-vegetables-clean-gm1496417346-519097782
+    source = Warumpha Pojchananaphasiri
+  pose335
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose335.webp
+    link = https://www.shutterstock.com/image-photo/portrait-young-bearded-man-closing-eyes-2486581867
+    source = AYO Production
+  pose336
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose336.webp
+    link = https://www.shutterstock.com/image-photo/happy-asian-woman-wearing-traditional-cheongsam-2080371127
+    source = NaMong Productions92
+  pose337
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose337.webp
+    link = https://www.shutterstock.com/image-photo/asian-woman-wearing-traditional-lanna-dress-2372977509
+    source = Take Photo
+  pose338
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose338.webp
+    link = https://www.shutterstock.com/image-photo/beautiful-asian-women-wearing-thai-traditional-2319895409
+    source = Take Photo
+  pose339
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose339.webp
+    link = https://www.shutterstock.com/image-photo/beautiful-asian-women-wearing-thai-traditional-2319894117
+    source = Take Photo
+  pose340
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose340.webp
+    link = https://www.istockphoto.com/photo/female-archeologist-work-late-night-in-office-research-ancient-civilization-cultural-gm1730986021-541743777
+    source = Andrii Lysenko
+  pose341
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose341.webp
+    link = https://www.gettyimages.com/detail/photo/senior-man-enjoying-relaxing-in-swimming-pool-royalty-free-image/1348271869
+    source = Imgorthand
+  pose342
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose342.webp
+    link = https://www.istockphoto.com/photo/young-man-slicing-green-watermelon-gm1163700227-319622802
+    source = mediaphotos
 
-	
+
 who     
   Sprigan
     name = A Spriggan
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/spriggan.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/spriggan.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Spriggan
   Meridia
     name = Meridia
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/meridia.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/meridia.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Meridia
   Dram
     name = Dram
     source = The Imperial Library
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dram.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dram.webp
     link = https://www.imperial-library.info/content/dram-concept-art-0
   Cyrus
     name = Cyrus
     source = The Imperial Library
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/cyrus.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/cyrus.webp
     link = hhttps://www.imperial-library.info/content/elder-scrolls-adventures-redguard-1
   Azura
     name = Azura
     source = UESP
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/azura.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/azura.webp
     link = https://en.uesp.net/wiki/Lore:Azura
   Narilmor
     name = King Narilmor
     source = ESO Model Viewer
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/narilmor.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/narilmor.webp
     link = https://esomodelviewer.com/characters/post/139-king-narilmor
   Seryn
     name = Seryn
     source = ESO Model Viewer
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/seryn.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/seryn.webp
     link = https://esomodelviewer.com/characters/post/135-seryn
   ThaddeusCosma
     name = Thaddeus Cosma
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/cosma.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/cosma.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/136-thaddeus-cosma
   Nocturnal
     name = Nocturnal
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nocturnal.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nocturnal.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Nocturnal
   Alessia
     name = Alessia
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/alessia.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/alessia.webp
     source = The Imperial Library
     link = https://www.imperial-library.info/content/antiquities-codexes#furn
   ESOVivec
     name = 2nd Era Vivec
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Vivec2.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vivec2.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Vivec
   MWVivec
     name = 3rd Era Vivec
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vivec.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vivec.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Vivec
   Mannimarco
     name = Mannimarco
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Mannimarco.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mannimarco.webp
     source = Elder Scrolls Legends
     link = https://en.uesp.net/wiki/Lore:Mannimarco
   Boethra
     name = Boethra
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/boethra.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/boethra.webp
     source = The Imperial Library
     link = https://www.imperial-library.info/content/antiquities-codexes#furn
   Lyris
     name = Lyris Titanborn
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lyris.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lyris.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/
   SothaSil
     name = Sotha Sil
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sothasil.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sothasil.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Sotha_Sil
   DagothUr
     name = Dagoth Ur
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dagoth.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dagoth.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Dagoth_Ur
   Almalexia
     name = Almalexia
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/alma.JPG
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/alma.webp
     source = UESP
     link = https://en.uesp.net/wiki/Tribunal:Almalexia
   Valsirenn
     name = Valsirenn
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/valsirenn.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/valsirenn.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Valsirenn
   Goblin
     name = A Goblin
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/goblin.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/goblin.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Goblin
   Addhiranirr
     name = Addhiranirr
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Addhiranirr.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/addhiranirr.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Morrowind:Addhiranirr 
   Ahnassi
     name = Ahnassi
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Ahnassi.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ahnassi.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Morrowind:Ahnassi
   Barenziah
     name = Barenziah
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Barenziah.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/barenziah.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Lore:Barenziah
   CaiusCosades
     name = Caius Cosades
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/caiuscosades.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/caiuscosades.webp
     source = UESP
     link = https://en.uesp.net/wiki/Morrowind:Caius_Cosades
   Huleeya
     name = Huleeya
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/huleeya.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/huleeya.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Morrowind:Huleeya
   Jobasha
     name = Jobasha
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/jobasha.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/jobasha.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Morrowind:Jobasha
   MartinSeptim
     name = Martin Septim
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/martin.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/martin.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Lore:Martin_Septim
   Korst
     name = Korst Wind-Eye 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/korst.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/korst.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Bloodmoon:Korst_Wind-Eye
   sul-matuul 
     name = Sul-Matuul 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sul-matuul.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sul-matuul.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Morrowind:Sul-Matuul
   NibaniMaesa
     name = Nibani Maesa
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nibani.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nibani.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Morrowind:Nibani_Maesa
   SharnGra-Muzgob
     name = Sharn gra-Muzgob
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sharn.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sharn.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Morrowind:Sharn_gra-Muzgob
   Uraggro-Shub
     name = Urag gro-Shub
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/urag.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/urag.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Urag_gro-Shub
   Yagrum
     name = Yagrum Bagarn
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/yagrum.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/yagrum.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Yagrum_Bagarn
   Ulliceta
     name = Ulliceta gra-Kogg
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ulliceta.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ulliceta.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Ulliceta_gra-Kogg
   Agronakgro-Malog
     name = Agronak gro-Malog
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/agronak.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/agronak.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Oblivion:Agronak_gro-Malog
   Baurus
     name = Baurus
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/baurus.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/baurus.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Oblivion:Baurus
   UrielSeptim
     name = Uriel Septim VII
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/uriel.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/uriel.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Lore:Uriel_Septim_VII
   ModrynOreyn
     name = Modryn Oreyn
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/modryn.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/modryn.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Oblivion:Modryn_Oreyn
   Ocato
     name = Ocato
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ocato.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ocato.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Lore:Ocato_of_Firsthold
   Ocheeva
     name = Ocheeva
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ocheeva.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ocheeva.webp
     source = Own Work 
     link = https://en.uesp.net/wiki/Oblivion:Ocheeva
   Richton
     name = Amiel Richton
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/richton.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/richton.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Amiel_Richton
   Iszara
     name = Iszara
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/iszara.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/iszara.webp
     source = UESP
     link = https://en.uesp.net/wiki/Redguard:Iszara
   Srathra
     name = S'rathra
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/srathra.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/srathra.webp
     source = UESP
     link = https://en.uesp.net/wiki/Redguard:S%27rathra
   Zumog_Phoom
     name = Zumog Phoom
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/zumog.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/zumog.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Zumog_Phoom
   VilenaDonton
     name = Vilena Donton
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vilena.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vilena.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Oblivion:Vilena_Donton   
   Mazoga
     name = Mazoga
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mazoga.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mazoga.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Oblivion:Mazoga_the_Orc_(person)
   Zeira
     name = Zeira
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/zeira.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/zeira.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Zeira   
   Zamarak
     name = Zamarak
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/zamarak.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/zamarak.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Zamarak   
   Za'ji
     name = Za'ji
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/zaji.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/zaji.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Za%27ji   
   Xukas
     name = Xukas
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/xukas.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/xukas.webp
     source = TES Wikia
     link = https://elderscrolls.fandom.com/wiki/Xukas   
   Xivilai
     name = A Xivilai
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/xivilai.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/xivilai.webp
     source = Elder Scrolls Legends
     link = https://en.uesp.net/wiki/Lore:Xivilai
   welkynar
     name = A Welkynar
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/welkynar.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/welkynar.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Welkynars
   Heita-Meen
     name = Vicecanon Heita-Meen
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/heitameen.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/heitameen.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Vicecanon_Heita-Meen
   VeritaNumida
     name = Verita Numida 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/verita.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/verita.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Verita_Numida
   Vastarie
     name = Vastarie
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vastarie.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vastarie.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Vastarie
   Svana
     name = Svana
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/svana.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/svana.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Svana
   Sun-in-Shadow
     name = Sun-in-Shadow
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/suninshadow.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/suninshadow.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Sun-in-Shadow
   SKSheogorath
     name = Skyrim Sheogorath
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sheo1.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sheo1.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Sheogorath
   OBSheogorath
     name = Shivering Isles Sheogorath
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sheo2.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sheo2.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Sheogorath
   DFSheogorath
     name = Iliac Bay Sheogorath
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sheo3.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sheo3.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Sheogorath
   Silver-Claw
     name = Silver-Claw
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/silverclaw.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/silverclaw.webp
     source = TES Wikia
     link = https://elderscrolls.fandom.com/wiki/Silver-Claw
   Ayrenn
     name = Ayrenn
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ayrenn.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ayrenn.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Ayrenn
   Alchemy
     name = Alchemy
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/alchemy.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/alchemy.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Alchemy_(person)
   ArnielGane
     name = Arniel Gane
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/arniel.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/arniel.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Arniel_Gane
   Cicero
     name = Cicero 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/cicero.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/cicero.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Cicero
   gwendis
     name = Gwendis
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/gwendis.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/gwendis.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Gwendis
   Dinwenel
     name = Dinwenel
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dinwenel.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dinwenel.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Dinwenel
   Eveli
     name = Eveli Sharp-Arrow
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/eveli.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/eveli.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Eveli_Sharp-Arrow
   Wilderqueen
     name = The Wilderqueen
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/wilderqueen.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/wilderqueen.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Aranias
   Umaril
     name = Umaril the Unfeathered
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/umaril.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/umaril.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Umaril_the_Unfeathered
   Prophet
     name = The Prophet
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/prophet.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/prophet.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Varen_Aquilarios
   Sapiarch
     name = A Sapiarch
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sapiarch.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sapiarch.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:College_of_Sapiarchs
   CliviaTharn
     name = Clivia Tharn
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/clivia.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/clivia.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Clivia_Tharn
   Verandis
     name = Count Verandis Ravenwatch
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/verandis.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/verandis.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Count_Verandis_Ravenwatch
   DarienGautier
     name = Darien Gautier 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/darien.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/darien.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Darien_Gautier
   Tolfdir
     name = Tolfdir
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/tolfdir.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/tolfdir.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Tolfdir
   ColetteMarence
     name = Colette Marence 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/colettemarence.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/colettemarence.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Colette_Marence
   Vex
     name = Vex
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Vex.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vex.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Vex    
   Stibbons
     name = Stibbons
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/stibbons.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/stibbons.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Stibbons 
   Aelif
     name = Aelif 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/aelif.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/aelif.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Aelif
   Velsa
     name = Velsa
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/velsa.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/velsa.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Velsa
   LittleLeaf
     name = Little Leaf
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/littleleaf.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/littleleaf.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Little_Leaf
   Lyranth
     name = Lyranth 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lyranth.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lyranth.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Lyranth
   DragonPriest
     name = A Dragon Priest
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dragonpriest.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dragonpriest.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Dragon_Priest
   AdoringFan
     name = Adoring Fan
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/adoringfan.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/adoringfan.webp
     source = UESP
     link = https://en.uesp.net/wiki/Oblivion:Adoring_Fan
   Amalien
     name = Amalien
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/amalien.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/amalien.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Amalien
   LichAyleid
     name = Ayleid Lich
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lichayleid.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lichayleid.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Lich
   LichNether
     name = Ayleid Nether Lich
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lichnether.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lichnether.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Lich
   LichOB
     name = Imperial Lich
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lichob.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lichob.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Lich
   Cadwell
     name = Cadwell
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/cadwell.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/cadwell.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Cadwell    
   Nala-do
     name = Captain Nala-do 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nala-do.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nala-do.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Captain_Nala-do
   Kassandra
     name = Kassandra
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/kassandra.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/kassandra.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Kassandra
   Domihaus
     name = Domihaus the Bloody-Horned
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/domihaus.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/domihaus.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Domihaus_the_Bloody-Horned
   DrakeOfBlades
     name = Drake of Blades
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/drakeofblades.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/drakeofblades.webp
     source = UESP
     link = Drake of Blades
   Euraxia
     name = Euraxia Tharn
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/euraxia.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/euraxia.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Euraxia_Tharn
   Faharajad
     name = King Fahara'jad
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/faharajad.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/faharajad.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Fahara%27jad
   FamiaMercius
     name = Famia Mercius
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/famia.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/famia.webp
     source = TES Wikia
     link = https://elderscrolls.fandom.com/wiki/Famia_Mercius
   Fennorian
     name = Fennorian
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/fennorian.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/fennorian.webp
     source = ESO Model Viewer
     link = https://en.uesp.net/wiki/Online:Fennorian
   ForgemotherAlga
     name = Forge-Mother Alga
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/alga.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/alga.webp
     source = TES Wikia
     link = https://elderscrolls.fandom.com/wiki/Forge-Mother_Alga
   GabrielleBenele
     name = Gabrielle Benele
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/benele.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/benele.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Gabrielle_Benele
   Gortwog
     name = Gortwog gro-Nagrom
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/gortwog.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/gortwog.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Gortwog
   GrayFox
     name = The Gray Fox 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/grayfox.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/grayfox.webp
     source = UESP
     link = https://en.uesp.net/wiki/Oblivion:The_Gray_Fox
   Gwaering
     name = Gwaering
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/gwaering.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/gwaering.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Gwaering
   Indaenir
     name = Indaenir
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/indaenir.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/indaenir.webp
     source = TES Wikia
     link = https://elderscrolls.fandom.com/wiki/Indaenir
   WalksSoftly
     name = Walks-Softly
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/walkssoftly.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/walkssoftly.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Walks-Softly
   Sees-All-Colors
     name = Sees-All-Colors
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sees-all-colors.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sees-all-colors.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Guildmaster_Sees-All-Colors
   RadaAl-Saran
     name = Rada Al-Saran
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/rada.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/rada.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/124-rada-al-saran
   SaiSahan
     name = Sai Sahan
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/saisahan.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/saisahan.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Sai_Sahan
   Riekling
     name = A Riekling Warrior 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/riekling.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/riekling.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Riekling
   Gelebor
     name = Knight Paladin Gelebor 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/gelebor.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/gelebor.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Knight-Paladin_Gelebor
   Hagraven
     name = A Hagraven 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/hagraven.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/hagraven.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Hagraven
   Chevalier_Renald
     name = Chevalier Renald
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ChevalierRenald.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/chevalierrenald.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Chevalier_Renald
   Emeric
     name = King Emeric
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Emeric.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/emeric.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Emeric
   Harkon
     name = Harkon
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Harkon.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/harkon.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Harkon    
   heem-jas
     name = Heem-Jas
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Heem-Jas.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/heem-jas.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Heem-Jas
   Iachesis
     name = Iachesis
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Iachesis.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/iachesis.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Iachesis
   J'zargo
     name = J'zargo
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/J'zargo.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/j'zargo.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:J%27zargo
   Jaxsik-Orrn
     name = Jaxsik-Orrn
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Jaxsik-Orrn.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/jaxsik-Orrn.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Jaxsik-Orrn
   Aela
     name = Aela the Huntress
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Aela.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/aela.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Skyrim:Aela_the_Huntress
   Ancano
     name = Ancano
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Ancano.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ancano.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Skyrim:Ancano
   Astrid
     name = Astrid
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Astrid.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/astrid.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Astrid
   Balgruuf
     name = Jarl Balgruuf
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Balgruuff.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/balgruuff.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Skyrim:Balgruuf_the_Greater
   calcelmo
     name = Calcelmo
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Calcelmo.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/calcelmo.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Skyrim:Calcelmo
   Delphine1
     name = Delphine
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Delphine.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/delphine.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Delphine
   Delphine2
     name = Delphine
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Delphine2.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/delphine2.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Delphine
   Dyus
     name = Dyus
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Dyus.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dyus.webp
     source = Elder Scrolls Legends
     link = https://en.uesp.net/wiki/Lore:Dyus
   elenwen
     name = Elenwen
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Elenwen.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/elenwen.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Elenwen
   Elisif
     name = Jarl Elisif the Fair
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Elesif.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/elesif.webp
     source = Own Work
     link =https://en.uesp.net/wiki/Skyrim:Elisif_the_Fair
   SybilleStentor
     name = Sybille Stentor
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/SybilleStentor.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sybillestentor.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Sybille_Stentor
   Telenger
     name = Telenger the Artificer
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Telenger.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/telenger.webp
     source = TES Wiki
     link = https://elderscrolls.fandom.com/wiki/Telenger_the_Artificer
   Ysolda
     name = Ysolda
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Ysolda.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ysolda.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Ysolda
   Vilkas
     name = Vilkas
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Vilkas.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vilkas.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Vilkas
   VicenteValtieri
     name = Vicente Valtieri
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/VicenteValtieri.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vicentevaltieri.webp
     source = UESP
     link = https://en.uesp.net/wiki/Oblivion:Vicente_Valtieri
   VaernimaDF
     name = Iliac Bay Vaermina 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/VaernimaDF.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vaernimaDF.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Vaermina
   VaernimaESO
     name = 2nd Era Vaermina
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/VaernimaESO.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/vaernimaeso.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Vaermina
   TitusMede
     name = Emperor Titus Mede II
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/TitusMede.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/titusmede.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Titus_Mede_II
   Farvad
     name = Throne Keeper Farvad
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Farvad.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/farvad.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Throne_Keeper_Farvad
   TeldrynSero
     name = Teldryn Sero
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/TeldrynSero.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/teldrynsero.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Teldryn_Sero
   Serana
     name = Serana
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Serana.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/serana.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Serana
   ClavicusVileRG
     name = Stros M'Kai Clavicus Vile 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ClavicusVileRG.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/clavicusvilerg.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Clavicus_Vile
   ClavicusVileESO
     name = Clavicus Vile
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ClavicusVileESO.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/clavicusvileeso.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/54-clavicus-vile
   DarkSeducer
     name = A Dark Seducer
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/DarkSeducer.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/darkseducer.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Mazken
   Fariel
     name = Treethane Fariel
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Fariel.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/fariel.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Treethane_Fariel
   Akkhuz-ri
     name = Mane Akkhuz-ri
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Akkhuz-ri.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/akkhuz-ri.webp
     source = TES Wiki
     link = https://elderscrolls.fandom.com/wiki/Akkhuz-ri
   Shazah
     name = Shazah
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Shazah.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/shazah.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Shazah
   Khali 
     name = Khali
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Khali.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/khali.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Khali
   Big_Head
     name = Big Head
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Big_Head.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/big_head.webp
     source = UESP
     link = https://en.uesp.net/wiki/Shivering:Big_Head
   DivaythFyrESO
     name = 2nd Era Divayth Fyr
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/DivaythFyrESO.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/divaythfyresp.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Divayth_Fyr
   DivaythFyrMW
     name = 3rd Era Divayth Fyr
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/DivaythFyrMW.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/divaythfyrmw.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Divayth_Fyr
   Dratha
     name = Mistress Dratha
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Dratha.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dratha.webp
     source = UESP
     link = https://en.uesp.net/wiki/Morrowind:Dratha
   Merric
     name = Merric at-Aswala
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Merric-at-Aswala.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/merric-at-aswala.webp
     source = TES Wiki
     link = https://elderscrolls.fandom.com/wiki/Merric_at-Aswala_(Online)
   Leythen
     name = Leythen
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Leythen.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/leythen.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Earl_Leythen
   Hakruba
     name = Countess Hakruba
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Countess_Hakruba.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/countess_hakruba.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Countess_Hakruba
   esbern
     name = Esbern
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Esbern.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/esbern.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Esbern
-  General_Tullius.jpg
+  General_Tullius
     name = General Tullius
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/General_Tullius.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/general_tullius.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Tullius
   Valaste
     name = Valaste
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Valaste.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/valaste.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Valaste
   GoldenSaint
     name = A Golden Saint
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/GoldenSaint.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/goldensaint.webp
     source = Elder Scrolls Legends
     link = https://en.uesp.net/wiki/Lore:Aureal
   Fortunata
     name = Governor Fortunata ap Dugal
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Fortunata.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/fortunata.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Governor_Fortunata_ap_Dugal
   Haxara
     name = Haxara
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Haxara.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/haxara.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Haxara
   Haskill
     name = Haskill
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Haskill.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/haskill.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Haskill
   Heimskr
     name = Heimskr
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Heimskr.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/heimskr.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Skyrim:Heimskr
   Helseth
     name = King Hlaalu Helseth
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Helseth.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/helseth.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Hlaalu_Helseth
   Jauffre
     name = Jauffre
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Jauffre.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/jauffre.webp
     source = UESP
     link = https://en.uesp.net/wiki/Oblivion:Jauffre
   Josajeh
     name = Josajeh
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Josajeh.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/josajeh.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Josajeh
   Jorunn
     name = Jorunn the Skald King
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Jorunn.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/jorunn.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Jorunn
   Mankar
     name = Mankar Camoran
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Mankar.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mankar.webp
     source = Elder Scrolls Legends
     link = https://en.uesp.net/wiki/Lore:Mankar_Camoran
   Lydia
     name = Lydia
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Lydia.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lydia.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Lydia
   Gharesh-ri
     name = Lord Gharesh-ri
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Gharesh-ri.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/gharesh-ri.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Lord_Gharesh-ri
   Rikke
     name = Legate Rikke
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Rikke.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/rikke.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Rikke
   LucienLachance
     name = Lucien Lachance
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Lachance.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lachance.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Lucien_Lachance
   Ulfric_Stormcloak
     name = Ulfric
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Ulfric.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ulfric.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Ulfric_Stormcloak
   Saadia
     name = Saadia
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Saadia.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/saadia.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Skyrim:Saadia
   Quen
     name = Quen
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Quen.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/quen.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Quen
   Varuni
     name = Provost Varuni Arvel
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Varuni_Arvel.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/varuni_arvel.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Provost_Varuni_Arvel
   Maraya
     name = Queen Maraya
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Maraya.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/maraya.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Queen_Maraya
   Pullo
     name = Proctor Luciana Pullo
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Pullo.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/pullo.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Proctor_Luciana_Pullo
   Mjolen
     name = Old Mjolen
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Mjolen.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mjolen.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/85-old-mjolen
   Laloriaran
     name = Laloriaran Dynar
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Laloriaran_Dynar.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/laloriaran_dynar.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Laloriaran_Dynar
   Kodlak
     name = Kodlak Whitemane
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Kodlak.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/kodlak.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Kodlak_Whitemane
   Kurog
     name = King Kurog 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Kurog.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/kurog.webp
     source = TES Wiki
     link = https://elderscrolls.fandom.com/wiki/Kurog_gro-Bagrakh
   Karliah
     name = Karliah
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Karliah.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/karliah.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Skyrim:Karliah
   Arngeir
     name = Arngeir
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Arngeir.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/arngeir.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Arngeir
   Mehra_Milo
     name = Mehra Milo
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Mehra_Milo.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mehra_milo.webp
     source = UESP
     link = https://en.uesp.net/wiki/Morrowind:Mehra_Milo
   Rigurt
     name = Rigurt the Brash
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Rigurt.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/rigurt.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Rigurt_the_Brash
   Ordinator
     name = An Ordinator
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Ordinator.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ordinator.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Ordinators
   OrdinatorTR
     name = A High Ordinator
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/OrdinatorTR.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ordinatortr.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Ordinators
   OrdinatorCA
     name = Royal Ordinator
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/OrdinatorConcept.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ordinatorconcept.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Ordinators
   Nazir
     name = Nazir
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Nazir.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nazir.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Nazir
   Neloth
     name = Neloth
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Neloth.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/neloth.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Neloth
-  Mehrunes_Dagon.jpg
+  Mehrunes_Dagon
     name = Mehrunes Dagon
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Mehrunes_Dagon.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mehrunes_dagon.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Mehrunes_Dagon
   Mephala
     name = Mephala
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Mephala.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mephala.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/60-mephala
   Miraak
     name = Miraak
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Miraak.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/miraak.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Lore:Miraak
   Mjoll
     name = Mjoll the Lioness
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Mjoll.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mjoll.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Mjoll_the_Lioness
   Ciannait
     name = Mother Ciannait
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/MotherCiannait.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/motherciannait.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/52-mother-ciannait
   Shelaria
     name = Shelaria
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Sheralia.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sheralia.webp
     source = ESO Model Viewer
     link =https://esomodelviewer.com/characters/post/55-shelaria
   Veya
     name = Veya Releth
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Veya.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/veya.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/45-veya-releth-summerset-chapter
   Tharayya
     name = Tharayya
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Tharayya.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/tharayya.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Tharayya
   Naryu
     name = Naryu Virian
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Naryu.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/naryu.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Naryu_Virian
   LadyEssenia
     name = Lady Essenia
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Essenia.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/essenia.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/89-lady-essenia
   Nereid
     name = A Nereid
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Nereid.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nereid.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Nereid
   Zatzu
     name = Zatzu
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Zatzu.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/zatzu.webp
     source = UESP
     link = https://esomodelviewer.com/characters/post/127-zatzu
   Feina-Darak
     name = Magnate Feina-Darak
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Feina-Darak.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/feina-darak.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Magnate_Feina-Darak
   Maormer
     name = A Maormer
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Maormer.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/maormer.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Maormer
   Adusa-daro
     name = Adusa-daro
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Adusa-daro.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/adusa-daro.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Adusa-daro
   Leki
     name = Leki
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Leki.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/leki.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:People_M#Makela_Leki
   Lamae
     name = Lamae Bal
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Lamae.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/lamae.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Lamae_Bal
   Ulthorn
     name = Ulthorn the Hound
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Ulthorn.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ulthorn.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/118-the-hound
   Naemon
     name = Namon
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Naemon.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/naemon.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/103-prince-naemon
   NarsisDren
     name = Narsis Dren
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/NarsisDren.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/narsisdren.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/74-narsis-dren
   Terran
     name = Sister Terran Arminus 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Terran.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/terran.webp
     source = UESP
     link = https://esomodelviewer.com/characters/post/130-sister-terran-arminus
   AbnurTharn
     name = Abnur Tharn
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Abnur.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/abnur.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/72-abnur-tharn-elsweyr-chapter
   Khamira
     name = Khamira
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Khamira.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/khamira.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/122-khamira
   Hara
     name = Hara
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Hara.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/hara.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Hara
   MolagBal
     name = Molag Bal
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/molagbal.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/molagbal.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Molag_Bal
   Nereid
     name = A Nereid
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nereid.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nereid.webp
     source = Elder Scrolls Legends
     link = https://en.uesp.net/wiki/Lore:Bestiary_N#Nereid
   Urzoga
     name = Urgoza Gra-Batul
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/urzoga.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/urzoga.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Blades:Urzoga_gra-Batul
   Saashi
     name = Saashi
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/saashi.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/saashi.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Blades:Saashi
   Wanum
     name = Wanum
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/wanum.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/wanum.webp
     source = Own Work
     link = https://en.uesp.net/wiki/Blades:Wanum
   ProxyQueen
     name = Proxy Queen Alwinarwe
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/proxy.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/proxy.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/80-proxy-queen-alwinarwe
   Pelinal
     name = Pelinal
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/pelinal.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/pelinal.webp
     source = UESP
     link = https://en.uesp.net/wiki/Lore:Pelinal_Whitestrake
   Nazeem
     name = Nazeem
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nazeem.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nazeem.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Nazeem
   Trinimac
     name = A Priest of Trinimac
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/trinimac.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/trinimac.webp
     source = Elder Scrolls Online
     link = https://en.uesp.net/wiki/Online:Trinimac_Style
   Galerion
     name = Vanus Galerion 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/galerion.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/galerion.webp
     source = Elder Scrolls Legends
     link = https://en.uesp.net/wiki/Lore:Vanus_Galerion
   Hircine
     name = Hiricine
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/hircine.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/hircine.webp
     source = Elder Scrolls Blades
     link = https://en.uesp.net/wiki/Lore:Hircine
   Farkas
     name = Farkas 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/farkas.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/farkas.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Farkas
   Fargoth
     name = Fargoth 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/fargoth.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/fargoth.webp
     source = UESP
     link = https://en.uesp.net/wiki/Morrowind:Fargoth
   Tarvus
     name = Archcanon Tarvus
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/tarvus.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/tarvus.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Archcanon_Tarvus
   Narsis
     name = Narsis Dren
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/narsisdren.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/narsisdren.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Narsis_Dren
   Baladas
     name = Baladas Demnevanni
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Baladas.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/baladas.webp
     source = UESP
     link = https://en.uesp.net/wiki/Morrowind:Baladas_Demnevanni_(person)
   Revus
     name = Revus Demnevanni
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/revus.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/revus.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Revus_Demnevanni
   Draugr
     name = A Draugr 
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/draugr.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/draugr.webp
     source = UESP
     link = https://en.uesp.net/wiki/Skyrim:Draugr
   FlameAtro
     name = Flame Atronach
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/flameatro.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/flameatro.webp
     source = UESP 
     link = https://en.uesp.net/wiki/Lore:Flame_Atronach
   Llevule
     name = Canon Llevule
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/llevule.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/llevule.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Canon_Llevule.jpg
   MiriElendis
     name = Miri Elendis
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/miri.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/miri.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Mirri_Elendis.jpg
   Bastian
     name = Bastian Hallix
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/bastian.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/bastian.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Bastian_Hallix.jpg
   Eerika
     name = Eerika Skjoralmor
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/eerika.jpg 
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/eerika.webp 
     source = TES Wikia
     link = https://elderscrolls.fandom.com/wiki/Eerika_Skjoralmor
   Belain
     name = Lady Belain
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/belain.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/belain.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Lady_Belain.jpg
   Yisareh
     name = Yisareh
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Yisareh.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/yisareh.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Yisareh.jpg
   Keshu
     name = Keshu the Black Fin
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/keshu.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/keshu.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Keshu_the_Black_Fin.jpg
   Caddach
     name = Ard Caddach
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ardcaddach.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ardcaddach.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Ard_Caddach.jpg
   Arkasis
     name = Arkasis
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/arkasis.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/arkasis.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Arkasis_the_Mad_Alchemist.jpg
   Arana
     name = Arana
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/arana.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/arana.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Arana.jpg
   Bradan
     name = Bradan
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/bradan.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/bradan.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Bradan.jpg
   CaptRian
     name = Captain Rian Liore
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/captrian.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/captrian.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Captain_Rian_Liore.jpg
   Destron
     name = Destron
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/destron.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/destron.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Destron.jpg
   Calia
     name = Calia
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/calia.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/calia.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Calia
   Itan-Nei
     name = Legionnaire Itan-Nei
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/itan-nei.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/itan-nei.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Legionnaire_Itan-Nei.jpg
   Azzin
     name = Azzin
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/azzin.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/azzin.webp
     source = TES Wikia
     link = https://elderscrolls.fandom.com/wiki/Azzin
   Mjaddah
     name = M'jaddah
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mjaddah.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mjaddah.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:BL-npc-M%27jaddah.jpg
   Dragonborn
     name = Promo Dragonborn
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dragonborn.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dragonborn.webp
     source = Gaming Heads
     link = https://www.specfictionshop.com/products/the-elder-scrolls-v-skyrim-dragonborn-statue
   Zerith-var
     name = Zerith-var
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Zerith-var.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/zerith-var.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Zerith-var.jpg
   Mizzik
     name = Mizzik Thunderboots
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Mizzik.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/mizzik.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Mizzik_Thunderboots.jpg
   Alea
     name = Alea
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Alea.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/alea.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Tribune_Alea_Idolus.jpg
   Azandar_al-Cybiades
     name = Azandar_al-Cybiades
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Azandar_al-Cybiades.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/azandar_al-cybiades.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Azandar_al-Cybiades.jpg
   Torvesard
     name = Torvesard
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Torvesard.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/torvesard.webp
     source = UESP
-    link = https://en.uesp.net/wiki/File:ON-npc-Torvesard.jpg 
+    link = https://en.uesp.net/wiki/File:ON-npc-Torvesard.jpg
   Tanlorin
     name = Tanlorin
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Tanlorin.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/tanlorin.webp
     source = UESP
-    link = https://en.uesp.net/wiki/File:ON-render-Companions_Update_44.jpg 
+    link = https://en.uesp.net/wiki/File:ON-render-Companions_Update_44.jpg
   Sharp-as-Night
     name = Sharp-as-Night
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Sharp-as-Night.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/sharp-as-night.webp
     source = UESP
-    link = https://en.uesp.net/wiki/File:ON-furnishing-Sharp-as-Night.jpg 
+    link = https://en.uesp.net/wiki/File:ON-furnishing-Sharp-as-Night.jpg
   Nantharion
     name = Nantharion
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Nantharion.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/nantharion.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-King_Nantharion.jpg 
   ScribesOfMora
     name = A Scribe of Mora
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/morascribes.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/morascribes.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-concept-Scribes_of_Mora.jpg
   Maormer
     name = A Maromer
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Maormer.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/maormer.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-concept-Dreadsails_Style.jpg
   Falmer
     name = A Falmer
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/falmer.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/falmer.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:SR-creature-Falmer.jpg
   Leramil
     name = Leramil the Wise
-    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/Leramil.jpg
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/leramil.webp
     source = UESP
     link = https://en.uesp.net/wiki/File:ON-npc-Leramil_the_Wise.jpg
+  DBAssassin
+    name = Dark Brotherhood Assassin 
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/dbassassin.webp
+    source = UESP
+    link = https://en.uesp.net/wiki/File:TR-quest-Dark_Brotherhood_Attacks.jpg
+  SKGuard
+    name = Skyrim Guard
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/skguard.webp
+    source = UESP
+    link = https://en.uesp.net/wiki/File:SR-npc-Whiterun_Guard.jpg
+  Stuga
+    name = Stuga
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/stuga.webp
+    source = UESP
+    link = https://en.uesp.net/wiki/Online:Stuga
+  Quaranir
+    name = Quaranir
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/quaranir.webp
+    source = UESP
+    link = https://en.uesp.net/wiki/Online:Stuga
 
 
 buttonText
