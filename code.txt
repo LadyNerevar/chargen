@@ -2711,6 +2711,11 @@ who
     image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/quaranir.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Stuga
+  Hyacinth
+    name = Hyacinth
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/hyacinth.webp
+    source = UESP
+    link = https://en.uesp.net/wiki/Online:Hyacinth
 
 
 buttonText
