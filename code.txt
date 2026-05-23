@@ -352,7 +352,7 @@ poses
     source = JookpubStock
   pose86
     image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose86.webp
-    link = hhttp://fav.me/ddqzeu3
+    link = http://fav.me/ddqzeu3
     source = JookpubStock
   pose87
     image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose87.webp
@@ -2844,30 +2844,12 @@ who
     image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ja-darri.webp
     source = ESO Model Viewer
     link = https://esomodelviewer.com/characters/post/147-ja-darri
-
-
+  Whim
+    name = Madam Whim
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/whim.webp
+    source = UESP
+    link = https://en.uesp.net/wiki/Online:Madam_Whim
+    
 buttonText
   GIVE ME A NEW ONE
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
