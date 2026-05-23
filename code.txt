@@ -1378,6 +1378,74 @@ poses
     image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose342.webp
     link = https://www.istockphoto.com/photo/young-man-slicing-green-watermelon-gm1163700227-319622802
     source = mediaphotos
+  pose343
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose343.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/DNqz0/1000-male-anatomy-dynamic-reference-for-sketching
+  pose344
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose344.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/DNqz0/1000-male-anatomy-dynamic-reference-for-sketching
+  pose345
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose345.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/DNqz0/1000-male-anatomy-dynamic-reference-for-sketching
+  pose346
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose346.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/29yXw/550-casual-female-poses
+  pose347
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose347.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/aJ56v/casual-poses-reference-pictures
+  pose348
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose348.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/aJ56v/casual-poses-reference-pictures
+  pose349
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose349.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/aJ56v/casual-poses-reference-pictures
+  pose350
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose350.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/aJ56v/casual-poses-reference-pictures
+  pose351
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose351.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/aJ56v/casual-poses-reference-pictures
+  pose352
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose352.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/aJ56v/casual-poses-reference-pictures
+  pose353
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose353.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/aJ56v/casual-poses-reference-pictures
+  pose354
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose354.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/aJ56v/casual-poses-reference-pictures
+  pose355
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose355.webp
+    source = Obscura 29
+    link = https://www.artstation.com/marketplace/p/aJ56v/casual-poses-reference-pictures
+  pose356
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose356.webp
+    source = TrueRef
+    link = https://trueref.io/products/witch-of-the-wilds-bre
+  pose357
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose357.webp
+    source = TrueRef
+    link = https://trueref.io/products/mage-scholar-xander
+  pose358
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose358.webp
+    source = TrueRef
+    link = https://trueref.io/products/mage-scholar-xander
+  pose359
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/pose/pose359.webp
+    source = TrueRef
+    link = https://trueref.io/products/cozy-casual-gabby
 
 
 who     
@@ -2716,6 +2784,66 @@ who
     image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/hyacinth.webp
     source = UESP
     link = https://en.uesp.net/wiki/Online:Hyacinth
+  Melandir
+    name = Melandir
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/melandir.webp
+    source = UESP
+    link = https://en.uesp.net/wiki/Online:Melandir
+  Tachien
+    name = Tachien
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/tachien.webp
+    source = UESP
+    link = https://en.uesp.net/wiki/Online:Tachien
+  Karinwe
+    name = Regent Karinwe Corelanya
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/karinwe.webp
+    source = UESP
+    link = https://en.uesp.net/wiki/Online:Regent_Karinwe
+  Ithelia
+    name = Ithelia
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ithelia.webp
+    source = ESO Model Viewer
+    link = https://esomodelviewer.com/characters/post/433-ithelia
+  Torvesard
+    name = Torvesard
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/torvesard.webp
+    source = ESO Model Viewer
+    link = https://esomodelviewer.com/characters/post/396-torvesard
+  Beragon
+    name = Beragon
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/beragon.webp
+    source = ESO Model Viewer
+    link = https://esomodelviewer.com/characters/post/430-beragon
+  Skordo
+    name = Skordo the Knife
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/skordo.webp
+    source = UESP
+    link = https://en.uesp.net/wiki/Online:Skordo_the_Knife
+  Kaleen
+    name = Captain Kaleen
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/kaleen.webp
+    source = ESO Model Viewer
+    link = https://esomodelviewer.com/characters/post/341-captain-kaleen-high-isle-chapter
+  Davaux
+    name = Lady Arabelle Davaux
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/davaux.webp
+    source = ESO Model Viewer
+    link = https://esomodelviewer.com/characters/post/321-lady-arabelle-davaux
+  Valessea
+    name = Guild Scholar Valessea
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/valessea.webp
+    source = ESO Model Viewer
+    link = https://esomodelviewer.com/characters/post/331-guild-scholar-valessea
+  Svargrim
+    name = High King Svargrim
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/svargrim.webp
+    source = ESO Model Viewer
+    link = https://esomodelviewer.com/characters/post/86-high-king-svargrim
+  Ja'darri
+    name = Ja'darri
+    image = https://raw.githubusercontent.com/LadyNerevar/chargen/refs/heads/main/char/ja-darri.webp
+    source = ESO Model Viewer
+    link = https://esomodelviewer.com/characters/post/147-ja-darri
 
 
 buttonText
